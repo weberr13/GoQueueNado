@@ -2,7 +2,7 @@ package main
 
 import (
    "fmt"
-   zmq "github.com/pebbe/zmq4"
+   zmq "github.com/pebbe/zmq3"
    vampire "./vampire"
 )
 

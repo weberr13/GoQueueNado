@@ -5,7 +5,7 @@ The Receiver of a ZMQ PULL socket on a single endpoint
 */
 
 import (
-	zmq "github.com/pebbe/zmq4"
+	zmq "github.com/pebbe/zmq3"
 )
 
 type Vampire struct {
